@@ -28,12 +28,12 @@ Features:
   - [x] half table rows are gray
   - [x] all strokes are gray
 
-[Jupyter Book MyST]():
-- [ ] Callout
+[Jupyter Book MyST](https://mystmd.org/guide/quickstart-myst-markdown):
+- [ ] Callout & Admonition
 - [ ] Executable Code Block with line highlight
 - [ ] Cross-Ref Preview
 
-[Bootstrap]():
+[Bootstrap](https://getbootstrap.com/docs/5.3/components/accordion):
 - [ ] Accordion, Button Group, Navs & Tabs, Pagination, Progress
 - [ ] Alert
 - [ ] Card
