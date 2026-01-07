@@ -1,5 +1,10 @@
-# PDF Decoration
+# PDF Decorating
 > Make your pdf more attractive like a html lady.
+
+## Table of Contents
+[About](#about)
+[Usage](#usage)
+[LICENSE](#license)
 
 ## About
 Bring fascinating Web visuals to your PDF pages.\
@@ -47,7 +52,7 @@ Features(_not yet_):
 3. `typst compile example.typ`, `firefox example.pdf`
 
 ```typ
-#import "@preview/pdf-decoration:0.1.0": *
+#import "@preview/pdf-decorating:0.1.0": *
 
 #set page(paper:"a5", columns:2)
 #set heading(numbering:"I.1")
