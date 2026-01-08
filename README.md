@@ -15,7 +15,7 @@ Philosophy:
 - **flexible:** global or local, all or part of
 - **universal:** different env, the same PDF
 
-Features(_not yet_):
+Features(_not yet_):\
 [CommonMark](https://commonmark.org):
 - All links/anchors are underlined and blue
 - Every block/inline code is inside a gray rectangle
@@ -45,6 +45,14 @@ Features(_not yet_):
 - Dialog, Toast
 - Offcanvas
 - Validation
+
+| Test | Typst | Trace |
+| ---: | :---: | --- |
+| **PASS** | 0.14.2-0.12.0 | --- |
+| *output err* | 0.11.1-0.11.0 | v(), show regex() |
+| *compile err* | 0.10.0-0.9.0 | func `table` not contain field `header` |
+| *compile err* | 0.8.0-0.6.0 | unknown variable: quote |
+| *compile err* | 0.5.0-0.1.0 | file not found: search preview |
 
 ## Usage
 1. Download the [Typst](https://typst.app) PDF compiler
